@@ -2,7 +2,7 @@
 
 ### MICCAI 2025, "Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction"
 
-[MICCAI 2025 Open Access Paper Link](https://papers.miccai.org/miccai-2025/0269-Paper5140.html)
+[MICCAI 2025 Open Access Paper Link](https://papers.miccai.org/miccai-2025/paper/5140_paper.pdf)
 
 **Dayoung Baik**, Jaejun Yoo*  <br />
 *corresponding author
