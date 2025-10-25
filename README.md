@@ -22,7 +22,8 @@ git clone https://github.com/dfm/python-nufft
 cd python-nufft 
 python setup.py install 
 ```
-3. pip install -r requirements.txt
+3. pck installation
+`pip install -r requirements.txt`
 4. torchNGP install <https://github.com/ashawkey/torch-ngp>
     - Rename torch-ngp to torchngp
 
@@ -32,16 +33,16 @@ Cardiac Cine Data [LINK](https://drive.google.com/file/d/1InP02lh_T_pMPCiwYsavih
 ## Command Line
 Dynamic MRI reconstruction
 ```
-python3 main.py --down_ratio 1 --sr_ratio 1
+python3 main.py --down_ratio 1 --sr_ratio 1 --fname cardiac32ch_b1.mat
 ```
 
 Spatial Interpolation
 ```
-python3 main.py --spatial_interpolation --sr_ratio 2 --down_ratio 1
+python3 main.py --spatial_interpolation --sr_ratio 2 --down_ratio 1 --fname cardiac32ch_b1.mat
 ```
 
 Temporal Interpolation
 ```
-python3 main.py --temporal_interpolation --sr_ratio 1--down_ratio 2
+python3 main.py --temporal_interpolation --sr_ratio 1--down_ratio 2 --fname cardiac32ch_b1.mat
 ```
 
