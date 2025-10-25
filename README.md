@@ -46,3 +46,16 @@ Temporal Interpolation
 python3 main.py --temporal_interpolation --sr_ratio 1--down_ratio 2 --fname cardiac32ch_b1.mat
 ```
 
+## Bibtex
+```
+@InProceedings{BaiDay_DynamicAware_MICCAI2025,
+        author = { Baik, Dayoung AND Yoo, Jaejun},
+        title = { { Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15963},
+        month = {September},
+        page = {174 -- 184}
+}
+```
